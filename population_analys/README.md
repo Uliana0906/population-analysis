@@ -83,7 +83,7 @@
   ![Graph](visualization/4.png)
 
 Все визуализации доступны в папке:  
-`visualizations`
+`visualization`
 
 ---
 
