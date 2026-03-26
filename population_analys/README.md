@@ -74,27 +74,27 @@
 В проекте были построены следующие графики:
 
 - Динамика роста населения крупнейших стран
-  ![Graph](visualizations/line_population_growth.png)
+  ![Graph](visualization/line_population_growth.png)
   
   На графике видно, что крупнейшие страны демонстрируют устойчивый рост, однако темпы роста различаются.
   
 - Топ стран по темпам роста населения
- ![Graph](visualizations/top_growth.png)
+ ![Graph](visualization/top_growth.png)
 
   Диаграмма показывает, что максимальный рост наблюдается в странах с высокой миграцией и экономическим развитием.
   
 - Страны с наименьшим ростом населения 
-  ![Graph](visualizations/lowest_growth.png)
+  ![Graph](visualization/lowest_growth.png)
   
   Исходя из графика, можно сделать вывод, что некоторые страны Европы демонстрируют снижение населения.
   
 - Распределение населения между странами
- ![Graph](visualizations/population_share.png)
+ ![Graph](visualization/population_share.png)
 
   На диаграмме видно, что несколько стран формируют значительную долю населения мира.
 
 Все визуализации доступны в папке:  
-`visualizations`
+`visualization`
 
 ---
 
