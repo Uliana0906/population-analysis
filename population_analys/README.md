@@ -74,13 +74,13 @@
 В проекте были построены следующие графики:
 
 - Динамика роста населения крупнейших стран
-  ![Graph](population_analys/visualizations/1.png)
+  ![Graph](visualization/1.png)
 - Топ стран по темпам роста населения
-  ![Graph](visualizations/2.png)
+  ![Graph](visualization/2.png)
 - Страны с наименьшим ростом населения
-  ![Graph](visualizations/3.png)
+  ![Graph](visualization/3.png)
 - Распределение населения между странами
-  ![Graph](visualizations/4.png)
+  ![Graph](visualization/4.png)
 
 Все визуализации доступны в папке:  
 `visualizations`
